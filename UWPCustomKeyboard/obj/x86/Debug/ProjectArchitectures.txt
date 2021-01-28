@@ -1,0 +1,1 @@
+C:\Users\phanith\source\repos\UWPCustomKeyboard\UWPCustomKeyboard\UWPCustomKeyboard.csproj;x86
